@@ -5,3 +5,7 @@
 3. prepare presentation
 4. deploy project to galaxy
 ......
+
+<img src="doc/craigslist.png" alt="craigslist">
+
+We can build something like this and we can make the UI looks nicer.

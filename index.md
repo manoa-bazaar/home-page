@@ -1,4 +1,4 @@
-# Manoa Bazaar
+# Manoalist
 
 1. Build a home page
 2. create M1 Project Board and list issues on it

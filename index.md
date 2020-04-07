@@ -30,4 +30,4 @@ When you first bring up the application, you will see the landing page that prov
 We can build something like this and we can make the UI looks nicer.
 
 ## Expectation
-The website will provide a secure and fair platform for UH Manoa students to post their product informations. Users can post valid information about their products on the platform, and the products will be displayed by searching their key words(label). It will be similar to the existing website "Carigslist".
+The website will provide a secure and fair platform for UH Manoa students to post their product informations. Users can post valid information about their products on the platform, and the products will be displayed by searching their key words(label). It will be similar to the existing website "Craigslist".

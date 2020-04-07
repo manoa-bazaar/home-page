@@ -16,18 +16,29 @@ When you first bring up the application, you will see the landing page that prov
 
 <img src="doc/landing.jpg" width="70%" alt="landing mockup">
 
+### Sign up
 
-.....
+If you do not have an account, you can click sign up to register:
 
-1. Build a home page
-2. create M1 Project Board and list issues on it
-3. prepare presentation
-4. deploy project to galaxy
+<img src="doc/signup.jpg" alt="sign up">
+
+### Sign in
+
+You can click log in to log in page
+
+<img src="doc/login.jpg" alt="log in">
+
+### Home
+
+After log in, you will see the home page for you to start shopping
+
+<img src="doc/userhome.jpg" alt="user home">
+
 ......
 
-<img src="doc/craigslist.png" alt="craigslist">
+......
 
-We can build something like this and we can make the UI looks nicer.
+
 
 ## Expectation
 The website will provide a secure and fair platform for UH Manoa students to post their product informations. Users can post valid information about their products on the platform, and the products will be displayed by searching their key words(label). It will be similar to the existing website "Craigslist".

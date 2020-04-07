@@ -10,7 +10,7 @@ Manoalist allows user to:
 
 ## User Interface Walkthrough
 
-### landing page
+### Landing page
 
 When you first bring up the application, you will see the landing page that provides a brief introduction to manoalist. So sellers and buyers can read to know how this application works.
 
@@ -25,7 +25,7 @@ When you first bring up the application, you will see the landing page that prov
 4. deploy project to galaxy
 ......
 
-<img src="doc/craigslist.png" alt="craigslist">
+<img src="doc/craigslist.png" width="40%" alt="craigslist">
 
 We can build something like this and we can make the UI looks nicer.
 

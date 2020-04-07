@@ -20,19 +20,19 @@ When you first bring up the application, you will see the landing page that prov
 
 If you do not have an account, you can click sign up to register:
 
-<img src="doc/signup.jpg" alt="sign up">
+<img src="doc/signup.jpg" width="70%" alt="sign up">
 
 ### Sign in
 
 You can click log in to log in page
 
-<img src="doc/login.jpg" alt="log in">
+<img src="doc/login.jpg" width="70%" alt="log in">
 
 ### Home
 
 After log in, you will see the home page for you to start shopping
 
-<img src="doc/userhome.jpg" alt="user home">
+<img src="doc/userhome.jpg" width="70%" alt="user home">
 
 ......
 

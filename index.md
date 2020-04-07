@@ -42,3 +42,5 @@ After log in, you will see the home page for you to start shopping
 
 ## Expectation
 The website will provide a secure and fair platform for UH Manoa students to post their product informations. Users can post valid information about their products on the platform, and the products will be displayed by searching their key words(label). It will be similar to the existing website "Craigslist".
+
+<a href="https://github.com/manoalist">github.com/manoalist</a>

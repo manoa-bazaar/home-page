@@ -14,25 +14,32 @@ Manoalist allows user to:
 
 When you first bring up the application, you will see the landing page that provides a brief introduction to manoalist. So sellers and buyers can read to know how this application works.
 
-<img src="doc/landing-page.png" width="70%" alt="landing mockup">
+<img src="doc/landing.png" width="70%" alt="landing mockup">
 
 ### Sign up
 
 If you do not have an account, you can click sign up to register:
 
-<img src="doc/signup-page.png" width="70%" alt="sign up">
+<img src="doc/signup.png" width="70%" alt="sign up">
 
 ### Sign in
 
 You can click log in to log in page
 
-<img src="doc/login-page.png" width="70%" alt="log in">
+<img src="doc/signin.png" width="70%" alt="log in">
 
 ### Home
 
 After log in, you will see the home page for you to start shopping
 
-<img src="doc/home-page.png" width="70%" alt="user home">
+<img src="doc/home.png" width="70%" alt="user home">
+
+### List Items
+
+You can search for items or use "shopping" dropdown to see items on each category. They will all open this List page, so you can see what items we have on this website.
+
+
+<img src="doc/list.png" width="70%" alt="list item">
 
 ## Expectation
 The website will provide a secure and fair platform for UH Manoa students to post their product informations. Users can post valid information about their products on the platform, and the products will be displayed by searching their key words(label). It will be similar to the existing website "Craigslist".

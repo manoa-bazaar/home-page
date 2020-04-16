@@ -58,4 +58,4 @@ Running deployment on Galaxy: <a href="http://mymanoalist520.meteorapp.com//">Ma
 
 Github repo: <a href="https://github.com/manoalist">Github</a>
 
-Project page: <a href="https://github.com/manoalist/manoalist/projects/1">Final Project</a>
+Milestones: <a href="https://github.com/manoalist/manoalist/projects/1">M1</a> <a href="https://github.com/manoalist/manoalist/projects/1">M2</a> <a href="https://github.com/manoalist/manoalist/projects/1">M3</a>

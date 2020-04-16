@@ -3,16 +3,16 @@ This project is to build an an application for UHM students to facilitate buying
 
 Manoalist allows user to:
 
-- Register a account
-- Login to view the items for sell
-- Post for sell item information
+- Register an account
+- Log in to view the items for sell
+- Post items for sale
 - Rate seller after purchase
 
 ## User Interface Walkthrough
 
 ### Landing page
 
-When you first bring up the application, you will see the landing page that provides a brief introduction to manoalist. So sellers and buyers can read to know how this application works.
+When you first bring up the application, you will see the landing page that provides a brief introduction to manoalist. Sellers and buyers can read to know how this application works.
 
 <a href="http://mymanoalist520.meteorapp.com/#/">manoalist landing page</a>
 
@@ -22,43 +22,43 @@ When you first bring up the application, you will see the landing page that prov
 
 If you do not have an account, you can click sign up to register:
 
-<a href="http://mymanoalist520.meteorapp.com/#/signup">manoalist sign up page</a>
+<a href="http://mymanoalist520.meteorapp.com/#/signup">Manoalist sign up page</a>
 
 <img src="doc/signup.png" width="70%" alt="sign up">
 
 ### Sign in
 
-You can click log in to log in page
+You can click log in to sign into your account:
 
-<a href="http://mymanoalist520.meteorapp.com/#/signin">manoalist sign in page</a>
+<a href="http://mymanoalist520.meteorapp.com/#/signin">Manoalist sign in page</a>
 
 <img src="doc/signin.png" width="70%" alt="log in">
 
 ### Home
 
-After log in, you will see the home page for you to start shopping. You can search for items or use "shopping" dropdown to see items on each category. You can also see what is new on the list and what are the most popular items. 
+After logging in, you will see the home page for you to start shopping. You can search for items or use "shopping" dropdown to see items on each category. You can also see what is new on the list and what are the most popular items. 
 
-<a href="http://mymanoalist520.meteorapp.com/#/home">manoalist home page</a>
+<a href="http://mymanoalist520.meteorapp.com/#/home">Manoalist home page</a>
 
 <img src="doc/home.png" width="70%" alt="user home">
 
 ### List Items
 
-you can see what items we have on this website.
+See what items are available on this website.
 
-<a href="http://mymanoalist520.meteorapp.com/#/list">manoalist list item page</a>
+<a href="http://mymanoalist520.meteorapp.com/#/list">Manoalist list item page</a>
 
 
 <img src="doc/list.png" width="70%" alt="list item">
 
 ## Expectation
-The website will provide a secure and fair platform for UH Manoa students to post their product informations. Users can post valid information about their products on the platform, and the products will be displayed by searching their key words(label). It will be similar to the existing website "Craigslist".
+The website will provide a secure and fair platform for UH Manoa students to post their items for sale. Users can post valid information about their products on the platform, and the products will be displayed by searching their key words (label). It will be similar to the existing website "Craigslist".
 
-Running deployment on Galaxy: <a href="http://mymanoalist520.meteorapp.com//">manoalist</a>
+Running deployment on Galaxy: <a href="http://mymanoalist520.meteorapp.com//">Manoalist</a>
 
-Github repo: <a href="https://github.com/manoalist">github</a>
+Github repo: <a href="https://github.com/manoalist">Github</a>
 
-M1 project page <a href="https://github.com/manoalist/manoalist/projects/1">Milestone 1</a>
+M1 project page: <a href="https://github.com/manoalist/manoalist/projects/1">Milestone 1</a>
 
-M2 project page <a href="https://github.com/manoalist/manoalist/projects/2">Milestone 1</a>
+M2 project page: <a href="https://github.com/manoalist/manoalist/projects/2">Milestone 2</a>
 

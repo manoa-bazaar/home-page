@@ -1,7 +1,7 @@
 # Manoalist
 This project is to build an an application for UHM students to facilitate buying and selling of student-related goods and service. Our goal is to work as a team and develop a nice website call "Manoalist".
 
-Manoalist allows user to:
+Manoalist allows users to:
 
 - Register an account
 - Log in to view the items for sell
@@ -10,7 +10,7 @@ Manoalist allows user to:
 
 ## User Interface Walkthrough
 
-### Landing page
+### Landing Page
 
 When you first bring up the application, you will see the landing page that provides a brief introduction to manoalist. Sellers and buyers can read to know how this application works.
 
@@ -18,7 +18,7 @@ When you first bring up the application, you will see the landing page that prov
 
 <img src="doc/landing.png" width="70%" alt="landing mockup">
 
-### Sign up
+### Sign Up
 
 If you do not have an account, you can click sign up to register:
 
@@ -26,9 +26,9 @@ If you do not have an account, you can click sign up to register:
 
 <img src="doc/signup.png" width="70%" alt="sign up">
 
-### Sign in
+### Sign In
 
-You can click log in to sign into your account:
+You can click log in to access your account:
 
 <a href="http://mymanoalist520.meteorapp.com/#/signin">Manoalist sign in page</a>
 

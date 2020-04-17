@@ -17,7 +17,9 @@ Manoalist allows users to:
 
 
 # THE TEAM
-Five ICS students at the University of Hawaii at Manoa. Check out our personal GitHubs below! 
+Five ICS students at the University of Hawaii at Manoa.
+
+Check out our personal GitHubs below! 
 * [Craig Opie](https://github.com/CraigOpie)
 * [Weirong He](https://github.com/heweiron)
 * [Tianhui Zhou](https://github.com/tianhuizhou)
@@ -26,7 +28,7 @@ Five ICS students at the University of Hawaii at Manoa. Check out our personal G
 
 
 # PROGRESS + DEVELOPMENT
-Running deployment on Galaxy: <a href="http://mymanoalist520.meteorapp.com//">Manoalist</a>
+Running deployment on Galaxy: <a href="http://mymanoalist.meteorapp.com///">Manoalist</a>
 
 Track our team's progress via Milestones:
 * <a href="https://github.com/manoalist/manoalist/projects/1">M1</a>

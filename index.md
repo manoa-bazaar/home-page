@@ -80,3 +80,6 @@ See what items are available on this website.
 
 
 <img src="doc/list.png" width="70%" alt="list item">
+<br/>
+
+[Back to table of contents](#table-of-contents)

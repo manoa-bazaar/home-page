@@ -1,12 +1,25 @@
-# Manoalist
-This project is to build an an application for UHM students to facilitate buying and selling of student-related goods and service. Our goal is to work as a team and develop a nice website call "Manoalist".
+## Table of Contents
+* [Overview](#overview)
+* [The Team](#the-team)
+* [User Interface Walkthrough](#user-interface-walkthrough)
+* [Progress + Development](#progress--development)
+
+## Overview
+This project is to build an an application for UHM students to facilitate buying and selling of student-related goods and service. Users can post valid information about their products on the platform, and the products will be displayed by searching their key words (label). It will be similar to the existing website "Craigslist". Our goal is to work as a team and develop a nice website call "Manoalist".
 
 Manoalist allows users to:
-
 - Register an account
 - Log in to view the items for sell
 - Post items for sale
 - Rate seller after purchase
+
+## The Team
+Five ICS students at the University of Hawaii at Manoa. Check out our personal GitHubs below! 
+* [Craig Opie](https://github.com/CraigOpie)
+* [Weirong He](https://github.com/heweiron)
+* [Tianhui Zhou](https://github.com/tianhuizhou)
+* [Edwin Zheng](https://github.com/edwin-zheng)
+* [Kyra Ikeda](https://github.com/kyraikeda)
 
 ## User Interface Walkthrough
 
@@ -51,11 +64,12 @@ See what items are available on this website.
 
 <img src="doc/list.png" width="70%" alt="list item">
 
-## Expectation
-The website will provide a secure and fair platform for UH Manoa students to post their items for sale. Users can post valid information about their products on the platform, and the products will be displayed by searching their key words (label). It will be similar to the existing website "Craigslist".
+## Progress + Development
+Github repo: <a href="https://github.com/manoalist">Github</a>
 
 Running deployment on Galaxy: <a href="http://mymanoalist520.meteorapp.com//">Manoalist</a>
 
-Github repo: <a href="https://github.com/manoalist">Github</a>
-
-Milestones: <a href="https://github.com/manoalist/manoalist/projects/1">M1</a>, <a href="https://github.com/manoalist/manoalist/projects/3">M2</a>, <a href="https://github.com/manoalist/manoalist/projects/4">M3</a>
+Track our team's progress via Milestones:
+* <a href="https://github.com/manoalist/manoalist/projects/1">M1</a>
+* <a href="https://github.com/manoalist/manoalist/projects/3">M2</a>
+* <a href="https://github.com/manoalist/manoalist/projects/4">M3</a>

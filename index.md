@@ -44,7 +44,7 @@ Track our team's progress via Milestones:
 
 When you first bring up the application, you will see the landing page that provides a brief introduction to manoalist. Sellers and buyers can read to know how this application works.
 
-<a href="http://mymanoalist520.meteorapp.com/#/">manoalist landing page</a>
+<a href="http://mymanoalist520.meteorapp.com/#/">Landing page</a>
 
 <img src="doc/landing.png" width="70%" alt="landing mockup">
 
@@ -52,7 +52,7 @@ When you first bring up the application, you will see the landing page that prov
 
 If you do not have an account, you can click sign up to register:
 
-<a href="http://mymanoalist520.meteorapp.com/#/signup">Manoalist sign up page</a>
+<a href="http://mymanoalist520.meteorapp.com/#/signup">Sign up page</a>
 
 <img src="doc/signup.png" width="70%" alt="sign up">
 
@@ -60,7 +60,7 @@ If you do not have an account, you can click sign up to register:
 
 You can click log in to access your account:
 
-<a href="http://mymanoalist520.meteorapp.com/#/signin">Manoalist sign in page</a>
+<a href="http://mymanoalist520.meteorapp.com/#/signin">Sign in page</a>
 
 <img src="doc/signin.png" width="70%" alt="log in">
 
@@ -68,7 +68,7 @@ You can click log in to access your account:
 
 After logging in, you will see the home page for you to start shopping. You can search for items or use "shopping" dropdown to see items on each category. You can also see what is new on the list and what are the most popular items. 
 
-<a href="http://mymanoalist520.meteorapp.com/#/home">Manoalist home page</a>
+<a href="http://mymanoalist520.meteorapp.com/#/home">Home page</a>
 
 <img src="doc/home.png" width="70%" alt="user home">
 
@@ -76,7 +76,7 @@ After logging in, you will see the home page for you to start shopping. You can 
 
 See what items are available on this website.
 
-<a href="http://mymanoalist520.meteorapp.com/#/list">Manoalist list item page</a>
+<a href="http://mymanoalist520.meteorapp.com/#/list">List item page</a>
 
 
 <img src="doc/list.png" width="70%" alt="list item">

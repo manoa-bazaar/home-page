@@ -29,6 +29,7 @@ Five ICS students at the University of Hawaii at Manoa.<Enter>Check out our pers
 
 
 # PROGRESS + DEVELOPMENT
+***
 Running deployment on Galaxy: <a href="http://mymanoalist.meteorapp.com///">Manoalist</a>
 
 Track our team's progress via Milestones:
@@ -38,7 +39,7 @@ Track our team's progress via Milestones:
 
 
 # USER INTERFACE
-
+***
 ### Landing Page
 
 When you first bring up the application, you will see the landing page that provides a brief introduction to manoalist. Sellers and buyers can read to know how this application works.

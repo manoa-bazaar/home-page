@@ -7,20 +7,18 @@
 
 # OVERVIEW
 ***
-**Github repo:** <a href="https://github.com/manoalist">Manoalist</a>
+An application for UHM students to facilitate buying and selling of student-related goods and service. Users can post valid information about their products on the platform, and the products will be displayed by searching their key words (label). It will be similar to the existing website "Craigslist" with added functionality. Our goal is to work closely as a team and develop a website that is both functional and aesthetic.
 
-This project is to build an an application for UHM students to facilitate buying and selling of student-related goods and service. Users can post valid information about their products on the platform, and the products will be displayed by searching their key words (label). It will be similar to the existing website "Craigslist". Our goal is to work as a team and develop a nice website call "Manoalist".
-
-Manoalist allows users to:
+Features:  
 - Register an account
-- Log in to view the items for sell
+- Log in to view the items for sale
 - Post items for sale
 - Rate seller after purchase
 
 
 # THE TEAM
 ***
-Five ICS students at the University of Hawaii at Manoa.
+Five ICS students at the University of Hawaii at Manoa.  
 Check out our personal GitHubs below! 
 * [Craig Opie](https://github.com/CraigOpie)
 * [Weirong He](https://github.com/heweiron)
@@ -81,6 +79,6 @@ See what items are available on this website.
 
 
 <img src="doc/list.png" width="70%" alt="list item">
-<br/>
+<br/><br/>
 
 [Back to table of contents](#table-of-contents)

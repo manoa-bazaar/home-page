@@ -5,6 +5,8 @@
 * [Progress + Development](#progress--development)
 
 ## Overview
+**Github repo:** <a href="https://github.com/manoalist">Manoalist</a>
+
 This project is to build an an application for UHM students to facilitate buying and selling of student-related goods and service. Users can post valid information about their products on the platform, and the products will be displayed by searching their key words (label). It will be similar to the existing website "Craigslist". Our goal is to work as a team and develop a nice website call "Manoalist".
 
 Manoalist allows users to:
@@ -64,9 +66,8 @@ See what items are available on this website.
 
 <img src="doc/list.png" width="70%" alt="list item">
 
-## Progress + Development
-Github repo: <a href="https://github.com/manoalist">Github</a>
 
+## Progress + Development
 Running deployment on Galaxy: <a href="http://mymanoalist520.meteorapp.com//">Manoalist</a>
 
 Track our team's progress via Milestones:

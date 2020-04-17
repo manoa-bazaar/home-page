@@ -1,8 +1,8 @@
 ## Table of Contents
 * [Overview](#overview)
 * [The Team](#the-team)
-* [User Interface Walkthrough](#user-interface-walkthrough)
 * [Progress + Development](#progress--development)
+* [User Interface Walkthrough](#user-interface-walkthrough)
 
 ## Overview
 **Github repo:** <a href="https://github.com/manoalist">Manoalist</a>
@@ -15,6 +15,7 @@ Manoalist allows users to:
 - Post items for sale
 - Rate seller after purchase
 
+
 ## The Team
 Five ICS students at the University of Hawaii at Manoa. Check out our personal GitHubs below! 
 * [Craig Opie](https://github.com/CraigOpie)
@@ -22,6 +23,16 @@ Five ICS students at the University of Hawaii at Manoa. Check out our personal G
 * [Tianhui Zhou](https://github.com/tianhuizhou)
 * [Edwin Zheng](https://github.com/edwin-zheng)
 * [Kyra Ikeda](https://github.com/kyraikeda)
+
+
+## Progress + Development
+Running deployment on Galaxy: <a href="http://mymanoalist520.meteorapp.com//">Manoalist</a>
+
+Track our team's progress via Milestones:
+* <a href="https://github.com/manoalist/manoalist/projects/1">M1</a>
+* <a href="https://github.com/manoalist/manoalist/projects/3">M2</a>
+* <a href="https://github.com/manoalist/manoalist/projects/4">M3</a>
+
 
 ## User Interface Walkthrough
 
@@ -65,12 +76,3 @@ See what items are available on this website.
 
 
 <img src="doc/list.png" width="70%" alt="list item">
-
-
-## Progress + Development
-Running deployment on Galaxy: <a href="http://mymanoalist520.meteorapp.com//">Manoalist</a>
-
-Track our team's progress via Milestones:
-* <a href="https://github.com/manoalist/manoalist/projects/1">M1</a>
-* <a href="https://github.com/manoalist/manoalist/projects/3">M2</a>
-* <a href="https://github.com/manoalist/manoalist/projects/4">M3</a>

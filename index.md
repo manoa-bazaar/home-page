@@ -29,7 +29,7 @@ Check out our personal GitHubs below!
 
 # PROGRESS + DEVELOPMENT
 ***
-Running deployment on Galaxy: <a href="http://mymanoalist.meteorapp.com///">Manoalist Website</a>
+Running deployment on Galaxy: <a href="http://mymanoalist.meteorapp.com/#/">Manoalist Website</a>
 
 Track the team's progress via Milestones:
 * <a href="https://github.com/manoalist/manoalist/projects/1">M1</a>

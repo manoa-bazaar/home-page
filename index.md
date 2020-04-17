@@ -1,10 +1,10 @@
-## Table of Contents
+# Table of Contents
 * [Overview](#overview)
 * [The Team](#the-team)
 * [Progress + Development](#progress--development)
 * [User Interface Walkthrough](#user-interface-walkthrough)
 
-## Overview
+# Overview
 **Github repo:** <a href="https://github.com/manoalist">Manoalist</a>
 
 This project is to build an an application for UHM students to facilitate buying and selling of student-related goods and service. Users can post valid information about their products on the platform, and the products will be displayed by searching their key words (label). It will be similar to the existing website "Craigslist". Our goal is to work as a team and develop a nice website call "Manoalist".
@@ -16,7 +16,7 @@ Manoalist allows users to:
 - Rate seller after purchase
 
 
-## The Team
+# The Team
 Five ICS students at the University of Hawaii at Manoa. Check out our personal GitHubs below! 
 * [Craig Opie](https://github.com/CraigOpie)
 * [Weirong He](https://github.com/heweiron)
@@ -25,7 +25,7 @@ Five ICS students at the University of Hawaii at Manoa. Check out our personal G
 * [Kyra Ikeda](https://github.com/kyraikeda)
 
 
-## Progress + Development
+# Progress + Development
 Running deployment on Galaxy: <a href="http://mymanoalist520.meteorapp.com//">Manoalist</a>
 
 Track our team's progress via Milestones:
@@ -34,7 +34,7 @@ Track our team's progress via Milestones:
 * <a href="https://github.com/manoalist/manoalist/projects/4">M3</a>
 
 
-## User Interface Walkthrough
+# User Interface Walkthrough
 
 ### Landing Page
 

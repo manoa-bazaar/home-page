@@ -20,7 +20,8 @@ Manoalist allows users to:
 
 # THE TEAM
 ***
-Five ICS students at the University of Hawaii at Manoa.<Enter>Check out our personal GitHubs below! 
+Five ICS students at the University of Hawaii at Manoa.
+Check out our personal GitHubs below! 
 * [Craig Opie](https://github.com/CraigOpie)
 * [Weirong He](https://github.com/heweiron)
 * [Tianhui Zhou](https://github.com/tianhuizhou)

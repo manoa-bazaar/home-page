@@ -9,11 +9,11 @@
 ***
 An application for UHM students to facilitate buying and selling of student-related goods and service. Users can post valid information about their products on the platform, and the products will be displayed by searching their key words (label). It will be similar to the existing website "Craigslist" with added functionality. Our goal is to work closely as a team and develop a website that is both functional and aesthetic.
 
-Features:  
-- Register an account
-- Log in to view the items for sale
-- Post items for sale
-- Rate seller after purchase
+Features: 
+- Ensure only UH students are allowed access
+- Log in to view/post items for sale
+- Rate sellers after purchase
+- "Like" items to view later
 
 
 # THE TEAM
@@ -29,9 +29,9 @@ Check out our personal GitHubs below!
 
 # PROGRESS + DEVELOPMENT
 ***
-Running deployment on Galaxy: <a href="http://mymanoalist.meteorapp.com///">Manoalist</a>
+Running deployment on Galaxy: <a href="http://mymanoalist.meteorapp.com///">Manoalist Website</a>
 
-Track our team's progress via Milestones:
+Track the team's progress via Milestones:
 * <a href="https://github.com/manoalist/manoalist/projects/1">M1</a>
 * <a href="https://github.com/manoalist/manoalist/projects/3">M2</a>
 * <a href="https://github.com/manoalist/manoalist/projects/4">M3</a>
@@ -41,7 +41,7 @@ Track our team's progress via Milestones:
 ***
 ### Landing Page
 
-When you first bring up the application, you will see the landing page that provides a brief introduction to manoalist. Sellers and buyers can read to know how this application works.
+The first page seen when accessing the site. Provides a brief introduction to how Manoalist works. Users can sign in/up 
 
 <a href="http://mymanoalist520.meteorapp.com/#/">Landing page</a>
 
@@ -73,7 +73,7 @@ After logging in, you will see the home page for you to start shopping. You can 
 
 ### List Items
 
-See what items are available on this website.
+See what items are available on the site.
 
 <a href="http://mymanoalist520.meteorapp.com/#/list">List item page</a>
 

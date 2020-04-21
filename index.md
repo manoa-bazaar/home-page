@@ -19,12 +19,12 @@ Features:
 # THE TEAM
 ***
 Five ICS students at the University of Hawaii at Manoa.  
-Check out our personal GitHubs below! 
-* [Craig Opie](https://github.com/CraigOpie)
-* [Weirong He](https://github.com/heweiron)
-* [Tianhui Zhou](https://github.com/tianhuizhou)
-* [Edwin Zheng](https://github.com/edwin-zheng)
-* [Kyra Ikeda](https://github.com/kyraikeda)
+Check out our portfolios below! 
+* [Craig Opie](https://craigopie.github.io/)
+* [Weirong He](https://heweiron.github.io/)
+* [Tianhui Zhou](https://tianhuizhou.github.io/)
+* [Edwin Zheng](https://edwin-zheng.github.io/)
+* [Kyra Ikeda](https://kyraikeda.github.io/)
 
 
 # PROGRESS + DEVELOPMENT

@@ -91,7 +91,7 @@ This section provides information to Meteor developers on how to use this code b
 
 First, <a href="https://www.meteor.com/install">install Meteor</a>.
 
-Second, go to the [https://github.com/manoalist/manoalist](Manoalist repo), and click the "Clone or download" button to download your new GitHub repo to your local file system. Using GitHub Desktop is a great choice if you use MacOS or Windows.
+Second, go to the <a href="https://github.com/manoalist/manoalist">Manoalist repo</a>, and click the "Clone or download" button to download your new GitHub repo to your local file system. Using GitHub Desktop is a great choice if you use MacOS or Windows.
 
 Fourth, cd into the app/ directory of your local copy of the repo, and install third party libraries with:
 ```

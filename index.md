@@ -105,13 +105,8 @@ $ meteor npm run start
 ```
 
 ### Viewing the running app
-If all goes well, the template application will appear at http://localhost:3000. You can login using the credentials in settings.development.json, or else register a new account.
+If all goes well, the application will appear at http://localhost:3000. You can login using the credentials in settings.development.json, or else register a new account.
 
-### ESLint
-You can verify that the code obeys our coding standards by running ESLint over the code in the imports/ directory with:
-```
-meteor npm run lint
-```
 <br/><br/>
 
 [Back to table of contents](#table-of-contents)

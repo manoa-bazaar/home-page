@@ -84,6 +84,7 @@ See what items are available on the site.
 
 
 # DEVELOPER GUIDE
+***
 This section provides information to Meteor developers on how to use this code base as a basis for their own development projects and tasks.
 
 ### Installation

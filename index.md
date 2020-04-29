@@ -47,7 +47,7 @@ The first page seen when accessing the site. Provides a brief introduction to ho
 
 <a href="http://mymanoalist520.meteorapp.com/#/">Landing page</a>
 
-<img src="doc/landing.png" width="70%" alt="landing mockup">
+<img src="doc/landingPage.png" width="70%" alt="landing mockup">
 
 ### Sign Up
 
@@ -55,7 +55,7 @@ If you do not have an account, you can click sign up to register:
 
 <a href="http://mymanoalist520.meteorapp.com/#/signup">Sign up page</a>
 
-<img src="doc/signup.png" width="70%" alt="sign up">
+<img src="doc/sign-up.png" width="70%" alt="sign up">
 
 ### Sign In
 
@@ -63,7 +63,7 @@ You can click log in to access your account:
 
 <a href="http://mymanoalist520.meteorapp.com/#/signin">Sign in page</a>
 
-<img src="doc/signin.png" width="70%" alt="log in">
+<img src="doc/login.png" width="70%" alt="log in">
 
 ### Home
 
@@ -71,7 +71,7 @@ After logging in, you will see the home page for you to start shopping. You can 
 
 <a href="http://mymanoalist520.meteorapp.com/#/home">Home page</a>
 
-<img src="doc/home.png" width="70%" alt="user home">
+<img src="doc/home-user.png" width="70%" alt="user home">
 
 ### List Items
 
@@ -82,6 +82,35 @@ See what items are available on the site.
 
 <img src="doc/list.png" width="70%" alt="list item">
 
+### Item Page
+
+See details about item
+
+<img src="doc/item-page.png" width="70%" alt="item page">
+
+### Profile Page
+
+Users can see their own profile page to check items they sell, bought and the rating from other users
+
+<img src="doc/profile.png" width="70%" alt="profile">
+
+### Add Item Page
+
+Users can post their items for sale to the list.
+
+<img src="doc/add-item.png" width="70%" alt="add item">
+
+### Admin Home Page(Admin)
+
+Administrator has their home page that allows them to create new category, monitiring items and send notifications. They can also handle the report and new post from users.
+
+<img src="doc/admin.png" width="70%" alt="admin home">
+
+### Add Category(Admin) 
+
+Administrator can add new category and delete useless empty category.
+
+<img src="doc/newCategory.png" width="70%" alt="add category">
 
 # DEVELOPER GUIDE
 ***

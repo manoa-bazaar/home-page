@@ -43,7 +43,7 @@ Track the team's progress via Milestones:
 ***
 ### Landing Page
 
-The first page seen when accessing the site. Provides a brief introduction to how Manoalist works. Users can sign in/up 
+The first page seen when accessing the site. Provides a brief introduction to how Manoalist works. Users can sign in/up. 
 
 <a href="http://mymanoalist520.meteorapp.com/#/">Landing page</a>
 
@@ -84,13 +84,13 @@ See what items are available on the site.
 
 ### Item Page
 
-See details about item
+See details about an individual item.
 
 <img src="doc/item-page.png" width="70%" alt="item page">
 
 ### Profile Page
 
-Users can see their own profile page to check items they sell, bought and the rating from other users
+Users can see their own profile page to check items they sell, bought and the rating from other users.
 
 <img src="doc/profile.png" width="70%" alt="profile">
 
@@ -102,7 +102,7 @@ Users can post their items for sale to the list.
 
 ### Admin Home Page(Admin)
 
-Administrator has their home page that allows them to create new category, monitiring items and send notifications. They can also handle the report and new post from users.
+Administrator has their home page that allows them to create new category, monitoring items and send notifications. They can also handle the report and new post from users.
 
 <img src="doc/admin.png" width="70%" alt="admin home">
 
@@ -111,6 +111,7 @@ Administrator has their home page that allows them to create new category, monit
 Administrator can add new category and delete useless empty category.
 
 <img src="doc/newCategory.png" width="70%" alt="add category">
+
 
 # DEVELOPER GUIDE
 ***

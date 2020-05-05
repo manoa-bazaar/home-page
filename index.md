@@ -8,6 +8,7 @@
 * [COMMUNITY FEEDBACK](#community-feedback)
 
 <br/>
+
 # OVERVIEW
 ***
 An application for UHM students to facilitate buying and selling of student-related goods and service. Users can post valid information about their products on the platform, and the products will be displayed by searching their key words (label). It will be similar to the existing website "Craigslist" with added functionality. Our goal is to work closely as a team and develop a website that is both functional and aesthetic.
@@ -18,6 +19,7 @@ Features:
 - Rate sellers after purchase
 - "Like" items to view later
 
+<br/>
 
 # THE TEAM
 ***
@@ -29,6 +31,7 @@ Check out our portfolios below!
 * [Edwin Zheng](https://edwin-zheng.github.io/)
 * [Kyra Ikeda](https://kyraikeda.github.io/)
 
+<br/>
 
 # PROGRESS + DEVELOPMENT
 ***
@@ -39,6 +42,7 @@ Track the team's progress via Milestones:
 * <a href="https://github.com/manoalist/manoalist/projects/3">M2</a>
 * <a href="https://github.com/manoalist/manoalist/projects/4">M3</a>
 
+<br/>
 
 # USER GUIDE
 ***
@@ -113,6 +117,7 @@ Administrator can add new category and delete useless empty category.
 
 <img src="doc/newCategory.png" width="70%" alt="add category">
 
+<br/>
 
 # DEVELOPER GUIDE
 ***
@@ -139,6 +144,7 @@ $ meteor npm run start
 ### Viewing the running app
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). You can login using the credentials in settings.development.json, or else register a new account.
 
+<br/>
 
 # COMMUNITY FEEDBACK
 ***

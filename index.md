@@ -7,7 +7,7 @@
 * [DEVELOPER GUIDE](#developer-guide)
 * [COMMUNITY FEEDBACK](#community-feedback)
 
-
+<br/>
 # OVERVIEW
 ***
 An application for UHM students to facilitate buying and selling of student-related goods and service. Users can post valid information about their products on the platform, and the products will be displayed by searching their key words (label). It will be similar to the existing website "Craigslist" with added functionality. Our goal is to work closely as a team and develop a website that is both functional and aesthetic.

@@ -3,8 +3,9 @@
 * [OVERVIEW](#overview)
 * [THE TEAM](#the-team)
 * [PROGRESS + DEVELOPMENT](#progress--development)
-* [USER INTERFACE](#user-interface)
+* [USER GUIDE](#user-guide)
 * [DEVELOPER GUIDE](#developer-guide)
+* [COMMUNITY FEEDBACK](#community-feedback)
 
 
 # OVERVIEW
@@ -39,7 +40,7 @@ Track the team's progress via Milestones:
 * <a href="https://github.com/manoalist/manoalist/projects/4">M3</a>
 
 
-# USER INTERFACE
+# USER GUIDE
 ***
 ### Landing Page
 
@@ -137,6 +138,12 @@ $ meteor npm run start
 
 ### Viewing the running app
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). You can login using the credentials in settings.development.json, or else register a new account.
+
+
+# COMMUNITY FEEDBACK
+***
+Coming soon. Stay tuned!
+
 
 <br/><br/>
 

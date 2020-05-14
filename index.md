@@ -11,7 +11,7 @@
 
 # OVERVIEW
 ***
-An application for UHM students to facilitate buying and selling of student-related goods and service. Users can post valid information about their products on the platform, and the products will be displayed by searching their key words (label). It will be similar to the existing website "Craigslist" with added functionality. Our goal is to work closely as a team and develop a website that is both functional and aesthetic.
+An application for University of Hawaii at Manoa students to facilitate buying and selling of student-related goods. Users can post valid information about their products on the platform, and the products will be displayed by searching their key words (label). It will be similar to the existing website "Craigslist" with added functionality. Our goal is to work closely as a team and develop a website that is both functional and aesthetic.
 
 Features: 
 - Ensure only UH students are allowed access
@@ -23,7 +23,7 @@ Features:
 
 # THE TEAM
 ***
-Five ICS students at the University of Hawaii at Manoa.  
+Five ICS students at the University of Hawaii at Manoa.
 Check out our portfolios below! 
 * [Craig Opie](https://craigopie.github.io/)
 * [Weirong He](https://heweiron.github.io/)
@@ -46,7 +46,7 @@ Track the team's progress via Milestones:
 
 # USER GUIDE
 ***
-This section provides a brief walkthrough of the Manoalist user interface and its functionality.
+This section provides a brief walkthrough of the Manoalist user interface and its functionality. Enjoy!
 
 ### [Landing Page](http://manoalist.meteorapp.com/#/)
 

@@ -46,6 +46,8 @@ Track the team's progress via Milestones:
 
 # USER GUIDE
 ***
+This section provides a brief walkthrough of the Manoalist user interface and its functionality.
+
 ### [Landing Page](http://manoalist.meteorapp.com/#/)
 
 The first page seen when accessing the site. Provides a brief introduction to how Manoalist works. Users can sign in/up from here. 
@@ -69,7 +71,7 @@ You can click log in to access your account:
 
 ### [Home](http://manoalist.meteorapp.com/#/home)
 
-After logging in, you will see the home page for you to start shopping. You can search for items or use "shopping" dropdown to see items on each category. You can also see what is new on the list and what are the most popular items. 
+After logging in, you will see the home page for you to start shopping. You can search for items or use the "Store" dropdown to look through items in each category. You can also see items recently listed and popular ones that no one has claimed yet!
 
 <img src="doc/home.png" width="90%" alt="user home">
 

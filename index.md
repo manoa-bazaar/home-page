@@ -11,7 +11,7 @@
 
 # OVERVIEW
 ***
-An application for University of Hawaii at Manoa students to facilitate buying and selling of student-related goods. Users can post valid information about their products on the platform, and the products will be displayed by searching their key words (label). It will be similar to the existing website "Craigslist" with added functionality. Our goal is to work closely as a team and develop a website that is both functional and aesthetic.
+An application for University of Hawaii at Manoa students to facilitate buying and selling of student-related goods. Users can post valid information about their products on the platform, and the products will be displayed by searching their key words. It will be similar to the existing website "Craigslist" with added functionality. Our goal is to work closely as a team and develop a website that is both functional and aesthetic.
 
 Features: 
 - Ensure only UH students are allowed access
@@ -99,7 +99,7 @@ See details about an individual item. Users are able to like and report items on
 
 ### Admin Page 
 
-All administrators have their own home page that allows them to monitoring items, look at banned users, create/delete categories, send notifications, and look at their inbox. They can also handle reported items and new listings from users.
+All administrators have their own home page that allows them to monitor items, look at banned users, create/delete categories, send notifications, and look at their inbox. They can also handle reported items and new listings from users.
 
 <img src="doc/admingif.gif" width="90%" alt="admin home">
 

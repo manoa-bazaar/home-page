@@ -23,8 +23,7 @@ Features:
 
 # THE TEAM
 ***
-Five ICS students at the University of Hawaii at Manoa.
-Check out our portfolios below! 
+Five ICS students at the University of Hawaii at Manoa.<br/>Check out our portfolios below! 
 * [Craig Opie](https://craigopie.github.io/)
 * [Weirong He](https://heweiron.github.io/)
 * [Tianhui Zhou](https://tianhuizhou.github.io/)

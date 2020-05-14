@@ -48,16 +48,16 @@ Track the team's progress via Milestones:
 ***
 ### [Landing Page](http://manoalist.meteorapp.com/#/)
 
-The first page seen when accessing the site. Provides a brief introduction to how Manoalist works. Users can sign in/up. 
+The first page seen when accessing the site. Provides a brief introduction to how Manoalist works. Users can sign in/up from here. 
 
-<img src="doc/landing.png" width="70%" alt="landing mockup">
+<img src="doc/landing.png" width="90%" alt="landing mockup">
 
 
 ### [Sign Up](http://manoalist.meteorapp.com/#/signup)
 
 If you do not have an account, you can click sign up to register:
 
-<img src="doc/signup.png" width="70%" alt="sign up">
+<img src="doc/signup.png" width="90%" alt="sign up">
 
 
 ### [Sign In](http://manoalist.meteorapp.com/#/signin)
@@ -95,18 +95,18 @@ See details about an individual item. Users are able to like and report items on
 <img src="doc/itempage.png" width="70%" alt="item page">
 
 
-### Profile
-
-Users can see their own profile page to check on their items for sale, things they bought, and ratings/comments from other users.
-
-<img src="doc/profile.png" width="70%" alt="profile">
-
-
 ### Admin Page 
 
 All administrators have their own home page that allows them to monitoring items, look at banned users, create/delete categories, send notifications, and look at their inbox. They can also handle reported items and new listings from users.
 
 <img src="doc/admingif.gif" width="70%" alt="admin home">
+
+
+### Profile
+
+Users can see their own profile page to check on their items for sale, things they bought, and ratings/comments from other users. Accessed through a dropdown menu by clicking the user's avatar at the top right.
+
+<img src="doc/profile.png" width="70%" alt="profile">
 
 
 ### Likes Page
@@ -145,6 +145,7 @@ Full page detailing the terms and conditions for using Manoalist.
 
 
 <br/>
+
 
 # DEVELOPER GUIDE
 ***

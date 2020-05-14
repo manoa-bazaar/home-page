@@ -46,58 +46,33 @@ Track the team's progress via Milestones:
 
 # USER GUIDE
 ***
-### Landing Page
+### [Landing Page](http://manoalist.meteorapp.com/#/)
 
 The first page seen when accessing the site. Provides a brief introduction to how Manoalist works. Users can sign in/up. 
 
-<a href="http://mymanoalist520.meteorapp.com/#/">Landing page</a>
-
 <img src="doc/landing.png" width="70%" alt="landing mockup">
 
-### Sign Up
+
+### [Sign Up](http://manoalist.meteorapp.com/#/signup)
 
 If you do not have an account, you can click sign up to register:
 
-<a href="http://mymanoalist520.meteorapp.com/#/signup">Sign up page</a>
-
 <img src="doc/signup.png" width="70%" alt="sign up">
 
-### Sign In
+
+### [Sign In](http://manoalist.meteorapp.com/#/signin)
 
 You can click log in to access your account:
 
-<a href="http://mymanoalist520.meteorapp.com/#/signin">Sign in page</a>
-
 <img src="doc/signin.png" width="70%" alt="log in">
 
-### Home
+
+### [Home](http://manoalist.meteorapp.com/#/home)
 
 After logging in, you will see the home page for you to start shopping. You can search for items or use "shopping" dropdown to see items on each category. You can also see what is new on the list and what are the most popular items. 
 
-<a href="http://mymanoalist520.meteorapp.com/#/home">Home page</a>
-
 <img src="doc/home.png" width="70%" alt="user home">
 
-### List Items
-
-See what items are available on the site. Users are able to sort items by date, price, quantity, and popularity.
-
-<a href="http://mymanoalist520.meteorapp.com/#/list">List item page</a>
-
-
-<img src="doc/listitem.png" width="70%" alt="list item">
-
-### Item Page
-
-See details about an individual item. Users are able to like and report items on this page. They can also contact the seller directly by hitting the Email button. Sellers' ratings/reviews are displayed below the item. Only owners are able to see the Sold and Edit buttons. Only admins can see the Ban User and Delete buttons. 
-
-<img src="doc/itempage.png" width="70%" alt="item page">
-
-### Profile
-
-Users can see their own profile page to check on their items for sale, things they bought, and ratings/comments from other users.
-
-<img src="doc/profile.png" width="70%" alt="profile">
 
 ### Create a Listing Page
 
@@ -105,11 +80,34 @@ Users can create listings for items they want to sell by filling out the form.
 
 <img src="doc/additem.png" width="70%" alt="add item">
 
+
+### [List Items](http://manoalist.meteorapp.com/#/list)
+
+See what items are available on the site. Users are able to sort items by date, price, quantity, and popularity.
+
+<img src="doc/listitem.png" width="70%" alt="list item">
+
+
+### Item Page
+
+See details about an individual item. Users are able to like and report items on this page. They can also contact the seller directly by hitting the Email button. Sellers' ratings/reviews are displayed below the item. Only owners are able to see the Sold and Edit buttons. Only admins can see the Ban User and Delete buttons. 
+
+<img src="doc/itempage.png" width="70%" alt="item page">
+
+
+### Profile
+
+Users can see their own profile page to check on their items for sale, things they bought, and ratings/comments from other users.
+
+<img src="doc/profile.png" width="70%" alt="profile">
+
+
 ### Admin Page 
 
 All administrators have their own home page that allows them to monitoring items, look at banned users, create/delete categories, send notifications, and look at their inbox. They can also handle reported items and new listings from users.
 
 <img src="doc/admingif.gif" width="70%" alt="admin home">
+
 
 ### Likes Page
 
@@ -117,11 +115,13 @@ Displays all items that a user likes. Accessed through a dropdown menu by clicki
 
 <img src="doc/likes.png" width="70%" alt="add category">
 
+
 ### Inbox Page
 
 See messages from other users about transactions. Accessed through a dropdown menu by clicking the user's avatar at the top right.
 
 <img src="doc/inbox.png" width="70%" alt="add category">
+
 
 ### Security Page
 
@@ -129,11 +129,13 @@ Allows users to change their password if desired. Accessed through a dropdown me
 
 <img src="doc/security.png" width="70%" alt="add category">
 
+
 ### Contact Us
 
 Users can fill out a form to give feedback/ask questions to administrators.
 
 <img src="doc/contact.png" width="70%" alt="add category">'
+
 
 ### Terms of Service
 

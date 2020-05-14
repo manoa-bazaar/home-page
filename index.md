@@ -80,7 +80,7 @@ After logging in, you will see the home page for you to start shopping. You can 
 
 ### List Items
 
-See what items are available on the site.
+See what items are available on the site. Users are able to sort items by date, price, quantity, and popularity.
 
 <a href="http://mymanoalist520.meteorapp.com/#/list">List item page</a>
 
@@ -89,33 +89,45 @@ See what items are available on the site.
 
 ### Item Page
 
-See details about an individual item.
+See details about an individual item. Users are able to like and report items on this page. They can also contact the seller directly by hitting the Email button. Sellers' ratings/reviews are displayed below the item. Only owners are able to see the Sold and Edit buttons. Only admins can see the Ban User and Delete buttons. 
 
 <img src="doc/itempage.png" width="70%" alt="item page">
 
-### Profile Page
+### Profile
 
-Users can see their own profile page to check items they sell, bought and the rating from other users.
+Users can see their own profile page to check on their items for sale, things they bought, and ratings/comments from other users.
 
 <img src="doc/profile.png" width="70%" alt="profile">
 
-### Add Item Page
+### Create a Listing Page
 
-Users can post their items for sale to the list.
+Users can create listings for items they want to sell by filling out the form. 
 
 <img src="doc/additem.png" width="70%" alt="add item">
 
-### Admin Home Page(Admin)
+### Admin Page 
 
-Administrator has their home page that allows them to create new category, monitoring items and send notifications. They can also handle the report and new post from users.
+All administrators have their own home page that allows them to monitoring items, look at banned users, create/delete categories, send notifications, and look at their inbox. They can also handle reported items and new listings from users.
 
-<img src="doc/admin.png" width="70%" alt="admin home">
+<img src="doc/admingif.gif" width="70%" alt="admin home">
 
-### Add Category(Admin) 
+### Likes Page
 
-Administrator can add new category and delete useless empty category.
+Displays all items that a user likes. Accessed through a dropdown menu by clicking the user's avatar at the top right.
 
-<img src="doc/newCategory.png" width="70%" alt="add category">
+<img src="doc/likes.png" width="70%" alt="add category">
+
+### Inbox Page
+
+See messages from other users about transactions. Accessed through a dropdown menu by clicking the user's avatar at the top right.
+
+<img src="doc/inbox.png" width="70%" alt="add category">
+
+### Security Page
+
+Allows users to change their password if desired. Accessed through a dropdown menu by clicking the user's avatar at the top right.
+
+<img src="doc/security.png" width="70%" alt="add category">
 
 ### Contact Us
 
@@ -125,7 +137,7 @@ Users can fill out a form to give feedback/ask questions to administrators.
 
 ### Terms of Service
 
-Users can read about the terms and conditions for using Manoalist.
+Full page detailing the terms and conditions for using Manoalist.
 
 <img src="doc/terms.png" width="70%" alt="add category">
 

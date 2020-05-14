@@ -64,21 +64,21 @@ If you do not have an account, you can click sign up to register:
 
 You can click log in to access your account:
 
-<img src="doc/signin.png" width="70%" alt="log in">
+<img src="doc/signin.png" width="90%" alt="log in">
 
 
 ### [Home](http://manoalist.meteorapp.com/#/home)
 
 After logging in, you will see the home page for you to start shopping. You can search for items or use "shopping" dropdown to see items on each category. You can also see what is new on the list and what are the most popular items. 
 
-<img src="doc/home.png" width="70%" alt="user home">
+<img src="doc/home.png" width="90%" alt="user home">
 
 
 ### [Create a Listing Page](http://manoalist.meteorapp.com/#/add)
 
 Users can create listings for items they want to sell by filling out the form. 
 
-<img src="doc/additem.png" width="70%" alt="add item">
+<img src="doc/additem.png" width="90%" alt="add item">
 
 
 ### [List Items](http://manoalist.meteorapp.com/#/list)
@@ -92,56 +92,56 @@ See what items are available on the site. Users are able to sort items by date, 
 
 See details about an individual item. Users are able to like and report items on this page. They can also contact the seller directly by hitting the Email button. Sellers' ratings/reviews are displayed below the item. Only owners are able to see the Sold and Edit buttons. Only admins can see the Ban User and Delete buttons. 
 
-<img src="doc/itempage.png" width="70%" alt="item page">
+<img src="doc/itempage.png" width="90%" alt="item page">
 
 
 ### Admin Page 
 
 All administrators have their own home page that allows them to monitoring items, look at banned users, create/delete categories, send notifications, and look at their inbox. They can also handle reported items and new listings from users.
 
-<img src="doc/admingif.gif" width="70%" alt="admin home">
+<img src="doc/admingif.gif" width="90%" alt="admin home">
 
 
 ### Profile
 
 Users can see their own profile page to check on their items for sale, things they bought, and ratings/comments from other users. Accessed through a dropdown menu by clicking the user's avatar at the top right.
 
-<img src="doc/profile.png" width="70%" alt="profile">
+<img src="doc/profile.png" width="90%" alt="profile">
 
 
 ### Likes Page
 
 Displays all items that a user likes. Accessed through a dropdown menu by clicking the user's avatar at the top right.
 
-<img src="doc/likes.png" width="70%" alt="add category">
+<img src="doc/likes.png" width="90%" alt="add category">
 
 
 ### Inbox Page
 
 See messages from other users about transactions. Accessed through a dropdown menu by clicking the user's avatar at the top right.
 
-<img src="doc/inbox.png" width="70%" alt="add category">
+<img src="doc/inbox.png" width="90%" alt="add category">
 
 
 ### Security Page
 
 Allows users to change their password if desired. Accessed through a dropdown menu by clicking the user's avatar at the top right.
 
-<img src="doc/security.png" width="70%" alt="add category">
+<img src="doc/security.png" width="90%" alt="add category">
 
 
 ### [Contact Us](http://manoalist.meteorapp.com/#/contact)
 
 Users can fill out a form to give feedback/ask questions to administrators.
 
-<img src="doc/contact.png" width="70%" alt="add category">'
+<img src="doc/contact.png" width="90%" alt="add category">'
 
 
 ### [Terms of Service](http://manoalist.meteorapp.com/#/terms)
 
 Full page detailing the terms and conditions for using Manoalist.
 
-<img src="doc/terms.png" width="70%" alt="add category">
+<img src="doc/terms.png" width="90%" alt="add category">
 
 
 <br/>
